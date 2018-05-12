@@ -1,0 +1,29 @@
+_repo: Tubutsch_36793
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ehrenstein, Albert
+    birthdate: 1886
+    deathdate: 1950
+    gutenberg_agent_id: '38477'
+    url: http://www.gutenberg.org/2009/agents/38477
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36793'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Men -- Fiction'
+- !lcsh 'Vienna (Austria) -- Social life and customs -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Melancholy -- Fiction'
+title: Tubutsch
+url: http://www.gutenberg.org/ebooks/36793
