@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38477'
     url: http://www.gutenberg.org/2009/agents/38477
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36793#Tubutsch
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2011-07-20'
 gutenberg_type: Text
